@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="92415" started-at="2018-04-03T23:29:06Z" finished-at="2018-04-03T23:30:38Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="92415" started-at="2018-04-03T23:29:06Z" finished-at="2018-04-03T23:30:38Z">
+      <class name="runner.CloudTestWithJUnit">
+        <test-method status="PASS" signature="CustomerServicePageFunctionalityOne()" name="CustomerServicePageFunctionalityOne[0 - Browser - chrome]" duration-ms="13841" started-at="2018-04-03T19:29:06Z" finished-at="2018-04-03T19:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerServicePageFunctionalityOne[0 - Browser - chrome] -->
+        <test-method status="PASS" signature="CustomerServicePageFunctionalityTwo()" name="CustomerServicePageFunctionalityTwo[0 - Browser - chrome]" duration-ms="26664" started-at="2018-04-03T19:29:06Z" finished-at="2018-04-03T19:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerServicePageFunctionalityTwo[0 - Browser - chrome] -->
+        <test-method status="PASS" signature="CustomerServicePageFunctionalityOne()" name="CustomerServicePageFunctionalityOne[1 - Browser - cloud_chrome_64]" duration-ms="56325" started-at="2018-04-03T19:29:06Z" finished-at="2018-04-03T19:30:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerServicePageFunctionalityOne[1 - Browser - cloud_chrome_64] -->
+        <test-method status="PASS" signature="CustomerServicePageFunctionalityTwo()" name="CustomerServicePageFunctionalityTwo[1 - Browser - cloud_chrome_64]" duration-ms="92319" started-at="2018-04-03T19:29:06Z" finished-at="2018-04-03T19:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerServicePageFunctionalityTwo[1 - Browser - cloud_chrome_64] -->
+      </class> <!-- runner.CloudTestWithJUnit -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
