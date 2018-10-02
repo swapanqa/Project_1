@@ -8,6 +8,8 @@ import utils.SeleniumUtils;
 import java.util.List;
 
 public class ImagePage extends SeleniumUtils {
+	
+	
 
     public void countAllImage(){
         WebElement imageFile = driver.findElement(By.xpath(".//*[@id='slick-slide02']/img[1]"));
