@@ -70,7 +70,7 @@ public class CloudTestWithJUnit extends CloudWithJunit {
 
     }
 
-   // @Test
+    @Test
     public void warehouselocationFunctionalityOne(){
         homePage.notAValidUser();
         homePage.browseToTheSite();
